@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "1257560115:AAFBV2MX7JysqxqEVF1pBuY9tsGwBqtybjw"
+    APP_ID = "1618934"
+    API_HASH = "aae1aaeacced705050046080694e03e9"
+    DATABASE_URL = "postgres://mhgxcbfgucfiew:18e8a33d75f5789cfa280008c930dc08a38bdd2d88765bb8899080a8b0b6704c@ec2-52-71-153-228.compute-1.amazonaws.com:5432/dar4n8ivq8a9hu"
+    SUDO_USERS = "999197022 939425014" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "http://downfortelegrandriver.com/chat"
     DOWNLOAD_DIRECTORY = "./downloads/"
 
 
